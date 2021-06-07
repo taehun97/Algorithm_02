@@ -1,4 +1,3 @@
-<img width="592" alt="0" src="https://user-images.githubusercontent.com/81031522/121018001-e2640080-c7d8-11eb-8920-40ebfbe33c9d.PNG">
 # Model 1
 
 1. Model & Training with Training loss & Test Accuracy
